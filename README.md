@@ -26,6 +26,6 @@ And in an open business, everything should be written down and shared widely.
 This handbook will allow us to start building and documenting Digital Ducky in public.
 
 [^1]: I would highly recommend reading more about the handbook philosophy at GitLab. See also:
-  - https://about.gitlab.com/handbook/
-  - https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
-  - https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/
+    - https://about.gitlab.com/handbook/
+    - https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first
+    - https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/
