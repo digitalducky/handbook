@@ -1,6 +1,12 @@
 # Handbook
 
-The Digital Ducky Handbook
+<p align="center">
+    <img width="200" src="/assets/img/ducky-yellow.png">
+</p>
+
+<div align="center">
+  The Digital Ducky Handbook
+</div>
 
 ## Motivations
 
