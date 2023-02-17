@@ -4,7 +4,9 @@
     <img width="200" src="/assets/img/ducky-yellow.png">
 </p>
 
-The Digital Ducky Handbook
+<div align="center">
+  The Digital Ducky Handbook
+</div>
 
 ## Motivations
 
