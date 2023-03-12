@@ -1,14 +1,4 @@
-# Handbook
-
-<p align="center">
-    <img width="200" src="static/img/ducky-yellow.png">
-</p>
-
-<div align="center">
-  The Digital Ducky Handbook
-</div>
-
-## Motivations
+# Motivations
 
 This handbook is inspired largely by [the handbook](https://about.gitlab.com/handbook/) and the transparent, public-by-default culture at [GitLab](https://gitlab.com).[^1]
 
@@ -18,7 +8,7 @@ Openness builds trust from staff, customers, and the greater community.
 A culture of openness can lead to a culture of greatness.
 It inspires others.
 
-### Why a handbook?
+## Why a handbook?
 
 Written documentation is essential to building a modern company.
 But writing is hard.
@@ -30,57 +20,6 @@ In a business, anything worth sharing should be written down.
 And in an open business, everything should be written down and shared widely.
 
 This handbook will allow us to start building and documenting Digital Ducky in public.
-
-## Development
-
-This website is built using [Docusaurus 2](https://docusaurus.io/).
-
-### Easy Local Dev
-
-You need node installed, then run
-```sh
-npm run start
-```
-
-The site launches at `https://localhost:3000`
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
 [^1]: I would highly recommend reading more about the handbook philosophy at GitLab. See also:
     - https://about.gitlab.com/handbook/
