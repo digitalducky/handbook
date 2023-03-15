@@ -30,8 +30,9 @@ const sidebars = {
       items: ['engineering/engineering'],
     },
     {
-      type: 'doc',
-      id: 'projects/projects',
+      type: 'category',
+      label: 'Projects',
+      items: ['projects/projects', 'projects/handbook'],
     },
     {
       type: 'doc',

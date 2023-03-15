@@ -37,12 +37,13 @@ This website is built using [Docusaurus 2](https://docusaurus.io/).
 
 ### Easy Local Dev
 
-You need node installed, then run
+Install node, then run
 ```sh
 npm run start
 ```
 
-The site launches at `https://localhost:3000`
+- The site launches at `https://localhost:3000` in your browser.
+- Live reloads changes.
 
 ### Installation
 
@@ -68,19 +69,10 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- [Vercel](https://vercel.com/digitalducky/handbook)
+- Deployed via the Vercel git Integration
+- Deploys to production automatically with new merges to `main`.
+- Deploys to preview automatically when a pull request is opened.
 
 [^1]: I would highly recommend reading more about the handbook philosophy at GitLab. See also:
     - https://about.gitlab.com/handbook/
