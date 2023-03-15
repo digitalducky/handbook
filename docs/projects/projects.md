@@ -1,8 +1,8 @@
-# Projects
+# All Projects
 
 ## Public Projects
 
-- [Handbook](https://github.com/digitalducky/handbook)
+- [Handbook](handbook.md)
 
 ## Secret Projects
 
