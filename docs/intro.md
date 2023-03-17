@@ -5,4 +5,6 @@ slug: /
 
 # Digital Ducky Handbook
 
-_quack_
+<div id="hello-ducky">
+  <img src="/img/ducky-yellow.png" width="100px" />
+</div>
