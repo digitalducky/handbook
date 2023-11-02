@@ -27,12 +27,16 @@ const sidebars = {
     {
       type: 'category',
       label: 'Engineering',
-      items: ['engineering/engineering'],
+      items: ['engineering/engineering', 'engineering/github'],
     },
     {
       type: 'category',
       label: 'Projects',
       items: ['projects/projects', 'projects/handbook'],
+    },
+    {
+      type: 'doc',
+      id: 'philosophies'
     },
     {
       type: 'doc',
