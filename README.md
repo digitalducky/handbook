@@ -33,7 +33,7 @@ This handbook will allow us to start building and documenting Digital Ducky in p
 
 ## Development
 
-This website is built using [Docusaurus 2](https://docusaurus.io/).
+This website is built using [Docusaurus 3](https://docusaurus.io/).
 
 ### Easy Local Dev
 
