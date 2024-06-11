@@ -27,7 +27,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Engineering',
-      items: ['engineering/engineering', 'engineering/github'],
+      items: ['engineering/engineering', 'engineering/domains', 'engineering/github'],
     },
     {
       type: 'category',
